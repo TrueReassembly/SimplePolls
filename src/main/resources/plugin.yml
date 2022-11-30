@@ -1,0 +1,6 @@
+name: SimplePolls
+version: '${project.version}'
+main: me.chipdev.simplepolls.SimplePolls
+api-version: 1.19
+authors: [ Chip ]
+description: Ask your community questions and get a formatted response
